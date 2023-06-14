@@ -37,7 +37,6 @@ To solve this problem, we will follow these steps:
 4. Split the dataset into training and testing sets for model development and evaluation.
 5. Train various machine learning models using the training data, such as logistic regression, decision trees, random forests, or gradient boosting algorithms.
 6. Evaluate the performance of each model using appropriate evaluation metrics, such as accuracy and F1-score.
-7. Fine-tune the selected model using techniques like hyperparameter tuning and cross-validation to optimize its performance.
 
 By building an accurate predictive model, LIA can focus its sales efforts on customers who are more likely to be interested in the proposed health insurance policy, leading to improved conversion rates and overall business growth.
 

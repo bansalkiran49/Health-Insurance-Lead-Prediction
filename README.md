@@ -35,7 +35,7 @@ To solve this problem, we will follow these steps:
 2. Preprocess the data by handling missing values, encoding categorical features, and scaling numerical features as necessary.
 3. Perform feature engineering by creating new columns from existing ones, such as Average age, premium per age to capture additional insights.
 4. Split the dataset into training and testing sets for model development and evaluation.
-5. Train various machine learning models using the training data, such as logistic regression, decision trees, random forests, or gradient boosting algorithms.
+5. Train various machine learning models using the training data, such as logistic regression, decision trees, random forests, or XGBoost algorithms.
 6. Evaluate the performance of each model using appropriate evaluation metrics, such as accuracy and F1-score.
 
 By building an accurate predictive model, LIA can focus its sales efforts on customers who are more likely to be interested in the proposed health insurance policy, leading to improved conversion rates and overall business growth.
